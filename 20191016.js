@@ -6,3 +6,6 @@ console.log(price * TAX);
 let name = "サンダーストーム北尾光司";
 let str = `こんにちは${ name }さん`;
 console.log(str);
+
+let data = ['javascript', 'Ajax', 'ASP.net']
+console.log(data[1])
