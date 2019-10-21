@@ -11,4 +11,8 @@ let data = ['javascript', 'Ajax', 'ASP.net'];
 console.log(data[1]);
 let data2 = { x: 1, y: 2, z: 3 };
 console.log(data2.x);
-console.log(data2['y'])
+console.log(data2['y']);
+console.log(11 - 2);
+console.log('1' + 2);
+let today = new Date();
+console.log(today + 10);
